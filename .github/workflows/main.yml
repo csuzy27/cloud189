@@ -2,7 +2,7 @@ name: 自动任务
 
 on:
   schedule:
-    - cron: "30 02 * * *"
+    - cron: "35 03 * * *"
   workflow_dispatch:
 
 env:
